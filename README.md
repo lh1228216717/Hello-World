@@ -1,6 +1,6 @@
 # GigHub
 
-##SSH 秘钥
+## SSH 秘钥
 ```
 GitHub 上连接已有仓库时的认证，是通过使用了 SSH 的公开密钥
 认证方式进行的。现在让我们来创建公开密钥认证所需的 SSH Key，并
@@ -18,21 +18,21 @@ id_rsa 文件是私有密钥，id_rsa.pub 是公开密钥。
 |Wiki|文档|
 |Issue|问题|
 
-##创建仓库
+## 创建仓库
 
-###Description
+### Description
 Description 栏中可以设置仓库的说明。这一栏不是必需项，可以留空。
-###Public、Private
+### Public、Private
 在这一栏可以选择 Public 还是 Private。这里我们选择 Public，创建
 公开仓库，仓库内的所有内容都会被公开。
 选择 Private 可以创建非公开仓库，用户可以设置访问权限，但这项
 服务是收费的
-###Initialize this repository with a README
+### Initialize this repository with a README
 在 Initialize this repository with a README 选项上打钩，随后
 GitHub 会自动初始化仓库并设置 README 文件，让用户可以立刻
 clone 这个仓库。如果想向 GitHub 添加手中已有的 Git 仓库，建议不要
 勾选，直接手动 push。
-###Add .gitignore
+### Add .gitignore
 下方左侧的下拉菜单非常方便，通过它可以在初始化时自动生
 成 .gitignore 文件 A。这个设定会帮我们把不需要在 Git 仓库中进行版本管
 理的文件记录在 .gitignore 文件中，省去了每次根据框架进行设置的麻
