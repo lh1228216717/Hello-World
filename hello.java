@@ -4,7 +4,8 @@ System.out.println("home 修改---");
 System.out.println("commit 不加 -m");
 System.out.println("feature-A 分支增加");
 
-System.oout.printl("分支add");
+System.out.printl("分支add");
+
 /**/
 
 }
