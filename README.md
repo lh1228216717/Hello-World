@@ -12,7 +12,7 @@ ssh-keygen -t rsa -C "your_email@example.com"
 id_rsa 文件是私有密钥，id_rsa.pub 是公开密钥。
 ```
 |GigHub名词|名词解释|使用方式
-|:|:|
+|--------|--------|--------|
 |Follow|关注|点击关注人的github 主页点击Follow|
 |clone|克隆|
 |Wiki|文档|
