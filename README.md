@@ -52,4 +52,4 @@ Markdown 语法进行描述，还可以添加标记，提高可读性
 ## 下为 github学习笔记 
 > * [github基础操作包括 add commit log diff push](https://github.com/lh1228216717/Hello-World/blob/master/gitBaseCurdDetail.md)
 > * [github关于分支操作的笔记学习 包括显示 创建 合并 切换 恢复 消除冲突。。](https://github.com/lh1228216717/Hello-World/blob/master/gitBaseBranch.md)
-> *[动画教程](https://learngitbranching.js.org/)
+> * [动画教程](https://learngitbranching.js.org/)
