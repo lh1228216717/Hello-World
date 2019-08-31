@@ -1,0 +1,10 @@
+## git本地与远程交互
+# 工具IDEA -- Terminal
+## 本地建立项目
+>* 更目录新建 README.md 和 .gitignore文件
+>*  git init
+>* git add .
+>* git commit - m '初始化git'
+>* git remote add origin https://github.com/lh1228216717/mmall_learning.git
+>* git pull
+>* git push -u -f  origin master
