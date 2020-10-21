@@ -17,7 +17,7 @@ $ git checkout feature-A
 ```
 ## git 分支推送
 ```
-git push origin 分支名称
+git push origin 分支名称 如果远程没有对应的分支名称，会自动创建对应的远程分支
 ```
 ## git merge——合并分支
 ## git reflog 
@@ -77,3 +77,4 @@ Fix conflict
 + 解决办法 git clean -d -fx
 ## 远程分支删除
 + 远程分支删除后使用 git remote prune origin
++ 有必要的情况下，删除远程分支(慎用)：git push origin --delete 分支名
