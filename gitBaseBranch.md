@@ -67,3 +67,7 @@ Fix conflict
 #
 ```
 ## git commit -am '添加提交'
+
+## git 切换分支时 遇到错误
++  The following untracked working tree files would be overwritten by checkout:         glshop-common/glshop-common.iml Please move or remove them before you switch branches. Aborting
++ 解决办法 git clean -d -fx
