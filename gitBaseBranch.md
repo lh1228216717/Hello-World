@@ -15,6 +15,10 @@ $ git branch
 $ git branch feature-A
 $ git checkout feature-A
 ```
+## git 分支推送
+```
+git push origin 分支名称
+```
 ## git merge——合并分支
 ## git reflog 
 查看当前仓库执行过的操作的日志
