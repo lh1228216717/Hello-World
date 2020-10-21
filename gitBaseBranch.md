@@ -75,3 +75,5 @@ Fix conflict
 ## git 切换分支时 遇到错误
 +  The following untracked working tree files would be overwritten by checkout:         glshop-common/glshop-common.iml Please move or remove them before you switch branches. Aborting
 + 解决办法 git clean -d -fx
+## 远程分支删除
++ 远程分支删除后使用 git remote prune origin
